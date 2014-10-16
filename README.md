@@ -1,5 +1,6 @@
 Aura
 ==============================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ImaBrokeDude/aura-revival?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Aura is an open-source server emulator written in C#. It's solely being
 developed for educational purposes, learning about programming, MMORPGs,
